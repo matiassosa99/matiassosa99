@@ -1,5 +1,6 @@
-### Hi, i'm Matias <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
+# Hi, i'm Matias <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
+## Full-Stack MERN & Mobile Apps Dev
 
 ## Connect with me:
 <p align="left">
